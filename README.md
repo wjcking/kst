@@ -1,6 +1,7 @@
 # casual
 
-Aisquesto date12-5
+Aisquesto github.casual-2s
+
 possess index
     冤 枉 不想做人了
     kause -barlevel- standout 
@@ -11,3 +12,15 @@ possess index
  时间 挤 冤家仇家swooped in 京客 寝室晃
 trikon tricon define formidable ionic
    parallel color axisized csa triple
+
+Flat project ISO metric dimention.point.countable@ humanbeings.realization
+
+history event connect with or to knowing people
+history incident headindex translate
+hard
+     range 
+     hxw 
+     being known
+    与歌德有关系
+loop.tobe.found
+党向文字 left hand amendiment
