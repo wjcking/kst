@@ -10,21 +10,21 @@
             deps: ['animalWorld'],
             exports: 'world'
         },
-        'human': {
-             //deps: ['human'],
+        //require([第一个参数和文件路径有关])
+        'humanWorld': {
+    //         deps: ['humanWorld'],
             exports: 'human'
         }
     }
 });
-//var vue = "outside";    document.writeln(vue);
-//page load when
-require(['cat', 'dog', 'world', 'human'], function (cat, dog, world, human) {
+//page load
+//require([第一个参数和文件路径有关])
+require(['cat', 'dog', 'world', 'humanWorld'], function (cat, dog, world, human) {
 
     cat.say();
     cat.mine();
     dog.say();
     dog.mine("touch-dog missons everydays");
     world.world();
-    human();
-    alert(human);
+    human(); 
 });
