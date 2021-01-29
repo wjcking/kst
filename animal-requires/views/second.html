@@ -5,7 +5,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
-    <script src="../content/require.min.js" data-main="../controllers/second.js"></script>
+<!--    <script src="../content/require.min.js" data-main="../controllers/second.js"></script>-->
+
+    <script>
+        let extacted = function () {
+            'use strict';
+
+            function _showName(name) {
+                document.writeln(name);
+            }
+
+            function mine(para) {
+                document.writeln(para);
+            }
+
+            return {
+                mine: mine,
+                say(words) {
+                    document.writeln(words);
+                },
+                showName(name) { //Á·Ï°Ë½ÓÐ·½·¨
+                    _showName(name);
+                }
+            }
+        }
+        //extected.mine("m");
+        var e = new extacted();
+        e.mine("mine");
+        e.showName("show");
+
+    </script>
 </head>
 <body>
 </body>

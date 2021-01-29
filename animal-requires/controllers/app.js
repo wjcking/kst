@@ -19,7 +19,8 @@
 });
 //page load
 //require([第一个参数和文件路径有关])
-require(['cat', 'dog', 'world', 'humanWorld'], function (cat, dog, world, human) {
+var jsonOutside = ['cat', 'dog', 'world', 'humanWorld'];
+var functioned =  function (cat, dog, world, human) {
 
     cat.say();
     cat.mine();
@@ -27,4 +28,5 @@ require(['cat', 'dog', 'world', 'humanWorld'], function (cat, dog, world, human)
     dog.mine("touch-dog missons everydays");
     world.world();
     human(); 
-});
+}
+require(jsonOutside, functioned);
