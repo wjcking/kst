@@ -42,7 +42,9 @@ body joint knocle<-Kontrast index
 地星球大小 生物端口 size change
 形态 unique half stick wrapped
 
-********************Requirement********************
+***
+Requirement
+
 index what sort of kets or NOT
 stat repeat
  index pos
@@ -74,9 +76,7 @@ letter keter habit hellek ancient
 however pain discomfort ridof first
 beauty co-ketub
 批处理 搜索文字
-cpp asm #define
-jvm.mid-lang.net tree lr root time 7 12 60 object
-asm #def cpp
+
 
 ***
 Backstore
