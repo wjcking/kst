@@ -78,7 +78,7 @@ cpp asm #define
 jvm.mid-lang.net tree lr root time 7 12 60 object
 asm #def cpp
 
-********************Backstore********************
+***Backstore
 
 Flat project ISO metric dimention.point.countable@ humanbeings.realization
 
