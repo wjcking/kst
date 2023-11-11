@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1341"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="solid.inside.fondtryic.svg">
+  <defs
+     id="defs1335">
+    <inkscape:path-effect
+       only_selected="false"
+       apply_with_weight="true"
+       apply_no_weight="true"
+       helper_size="0"
+       steps="2"
+       weight="33.333333"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect2520"
+       effect="bspline" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2516"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect993"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect989"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect985"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       only_selected="false"
+       apply_with_weight="true"
+       apply_no_weight="true"
+       helper_size="0"
+       steps="2"
+       weight="33.333333"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect1138"
+       effect="bspline" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1136"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       only_selected="false"
+       apply_with_weight="true"
+       apply_no_weight="true"
+       helper_size="0"
+       steps="2"
+       weight="33.333333"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect1134"
+       effect="bspline" />
+    <inkscape:path-effect
+       only_selected="false"
+       apply_with_weight="true"
+       apply_no_weight="true"
+       helper_size="0"
+       steps="2"
+       weight="33.333333"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect1132"
+       effect="bspline" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1092"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1088"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       only_selected="false"
+       apply_with_weight="true"
+       apply_no_weight="true"
+       helper_size="0"
+       steps="2"
+       weight="33.333333"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect1084"
+       effect="bspline" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1080"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1070"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       only_selected="false"
+       apply_with_weight="true"
+       apply_no_weight="true"
+       helper_size="0"
+       steps="2"
+       weight="33.333333"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect1000"
+       effect="bspline" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4072967"
+     inkscape:cx="329.08017"
+     inkscape:cy="132.04488"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1214"
+     inkscape:window-height="777"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid940" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1338">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       id="text2819"
+       y="-4.5767951"
+       x="-64.648766"
+       style="font-size:3.60868px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.0422889"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.0422889"
+         y="-4.5767951"
+         x="-64.648766"
+         id="tspan2817"
+         sodipodi:role="line">Axis.CenterKover</tspan><tspan
+         id="tspan2821"
+         style="stroke-width:0.0422889"
+         y="-0.065944843"
+         x="-64.648766"
+         sodipodi:role="line">Flat.Sequence Count.Sum:2(1)</tspan><tspan
+         style="stroke-width:0.0422889"
+         y="4.4449053"
+         x="-64.648766"
+         sodipodi:role="line"
+         id="tspan1253">Flat.Sequence?:</tspan><tspan
+         style="stroke-width:0.0422889"
+         y="8.9557543"
+         x="-64.648766"
+         sodipodi:role="line"
+         id="tspan1255">Area-&gt;Small.Angle</tspan><tspan
+         style="stroke-width:0.0422889"
+         y="13.466605"
+         x="-64.648766"
+         sodipodi:role="line"
+         id="tspan1257">Circle~Transact.Caide</tspan><tspan
+         style="stroke-width:0.0422889"
+         y="17.977453"
+         x="-64.648766"
+         sodipodi:role="line"
+         id="tspan1259">Rect-Ruled.Side|Angle</tspan></text>
+    <rect
+       ry="0"
+       rx="0"
+       y="21.791483"
+       x="-58.395309"
+       height="15.253552"
+       width="15.253552"
+       id="rect2827"
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke" />
+    <path
+       transform="matrix(0.19547996,0.37171178,0.37171178,-0.19547996,-89.49823,21.045368)"
+       inkscape:transform-center-y="-1.4443217"
+       inkscape:transform-center-x="0.0045154727"
+       d="M 100.74877,109.22296 88.811925,108.7704 76.87508,108.31784 83.235432,98.206511 89.595785,88.095181 95.172278,98.659073 Z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.6086912"
+       sodipodi:arg1="0.56149366"
+       sodipodi:r2="6.8966923"
+       sodipodi:r1="13.793384"
+       sodipodi:cy="101.87866"
+       sodipodi:cx="89.073212"
+       sodipodi:sides="3"
+       id="path2829"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.719394;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       sodipodi:type="star" />
+    <ellipse
+       ry="4.4947643"
+       rx="4.2671809"
+       cy="48.15601"
+       cx="-31.180426"
+       id="path2825"
+       style="fill:none;stroke:#000000;stroke-width:0.30213;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.191834;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1269"
+       width="25.309166"
+       height="25.309166"
+       x="49.271412"
+       y="-105.7942"
+       rx="0"
+       ry="0"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.60868px;line-height:1.25;font-family:sans-serif;stroke-width:0.0422889"
+       x="5.7481275"
+       y="8.0636797"
+       id="text2819-1-4-4"><tspan
+         id="tspan5979-7-5"
+         sodipodi:role="line"
+         x="5.7481275"
+         y="8.0636797"
+         style="stroke-width:0.0422889">正三角形融在里面</tspan><tspan
+         id="tspan1183"
+         sodipodi:role="line"
+         x="5.7481275"
+         y="12.665418"
+         style="stroke-width:0.0422889">Route.HandDraw.Dotline.RectangleWrappered</tspan><tspan
+         id="tspan1185"
+         sodipodi:role="line"
+         x="5.7481275"
+         y="17.176266"
+         style="stroke-width:0.0422889">1.边贴后 三角形一个角不顶边</tspan><tspan
+         id="tspan1187"
+         sodipodi:role="line"
+         x="5.7481275"
+         y="21.778004"
+         style="stroke-width:0.0422889">2.Axis.SideAttach.LeftOneAngle=Substract.Distance </tspan><tspan
+         id="tspan1189"
+         sodipodi:role="line"
+         x="5.7481275"
+         y="26.288853"
+         style="stroke-width:0.0422889">3.顶角后 距离按照两边之核？未确定 应该是</tspan><tspan
+         id="tspan1191"
+         sodipodi:role="line"
+         x="5.7481275"
+         y="30.890591"
+         style="stroke-width:0.0422889">4.Left.TwoAngles:</tspan><tspan
+         id="tspan1193"
+         sodipodi:role="line"
+         x="5.7481275"
+         y="35.40144"
+         style="stroke-width:0.0422889">    Attached(顶？) </tspan><tspan
+         id="tspan1195"
+         sodipodi:role="line"
+         x="5.7481275"
+         y="40.003178"
+         style="stroke-width:0.0422889">    Not</tspan></text>
+    <g
+       id="g2103"
+       transform="translate(-2.9834738,-38.164176)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.191833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect1079-8-5"
+         width="25.30142"
+         height="25.316614"
+         x="13.178429"
+         y="-144.32062"
+         rx="0"
+         ry="0"
+         transform="scale(1,-1)" />
+      <path
+         inkscape:transform-center-y="-5.6223838"
+         inkscape:transform-center-x="0.079189078"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.6086912"
+         sodipodi:arg1="0.56149366"
+         sodipodi:r2="6.8966923"
+         sodipodi:r1="13.793383"
+         sodipodi:cy="46.532131"
+         sodipodi:cx="145.64082"
+         sodipodi:sides="3"
+         id="path2829-1-8-5"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.183933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         sodipodi:type="star"
+         transform="matrix(1.0544942,-0.03265833,0.03263873,1.0551275,-129.21643,92.610665)"
+         d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.20372px;line-height:1.25;font-family:sans-serif;stroke-width:0.109218"
+       x="3.9209561"
+       y="54.986378"
+       id="text2005"><tspan
+         sodipodi:role="line"
+         id="tspan2003"
+         x="3.9209561"
+         y="54.986378"
+         style="font-size:3.20372px;stroke-width:0.109218">Device.Computer.Dotline.Rotate</tspan><tspan
+         sodipodi:role="line"
+         x="3.9209561"
+         y="58.991032"
+         style="font-size:3.20372px;stroke-width:0.109218"
+         id="tspan2013">    顶角 转 划边 Triangle.Center != Rectangle.Center</tspan><tspan
+         sodipodi:role="line"
+         x="3.9209561"
+         y="63.076366"
+         style="font-size:3.20372px;stroke-width:0.109218"
+         id="tspan2019">    不能贴边？不能绝对贴边 所以缩小范围在转</tspan><tspan
+         sodipodi:role="line"
+         x="3.9209561"
+         y="67.161705"
+         style="font-size:3.20372px;stroke-width:0.109218"
+         id="tspan2007">Leon.Device.ActualDirect</tspan><tspan
+         sodipodi:role="line"
+         x="3.9209561"
+         y="71.166359"
+         style="font-size:3.20372px;stroke-width:0.109218"
+         id="tspan2017">    Keyword.Penitriate.Particle&amp;Molecule</tspan><tspan
+         sodipodi:role="line"
+         x="3.9209561"
+         y="75.171013"
+         style="font-size:3.20372px;stroke-width:0.109218"
+         id="tspan2009" /></text>
+    <path
+       d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z"
+       inkscape:transform-center-y="1.5691395"
+       inkscape:transform-center-x="-3.4501526"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.6086912"
+       sodipodi:arg1="0.56149366"
+       sodipodi:r2="6.8966923"
+       sodipodi:r1="13.793383"
+       sodipodi:cy="46.532131"
+       sodipodi:cx="145.64082"
+       sodipodi:sides="3"
+       id="path2829-1-8-5-3"
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.183933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       sodipodi:type="star"
+       transform="matrix(0.36103945,0.9912997,-0.99190731,0.36121904,53.622593,-70.919552)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.33476px;line-height:1.25;font-family:sans-serif;stroke-width:0.0390791"
+       x="109.85857"
+       y="9.5722399"
+       id="text2095"><tspan
+         sodipodi:role="line"
+         x="109.85857"
+         y="9.5722399"
+         style="stroke-width:0.0390791"
+         id="tspan2105">Solid.AreaCut=Shapes?.Utilize:Sequence.Count</tspan><tspan
+         sodipodi:role="line"
+         x="109.85857"
+         y="13.740689"
+         style="stroke-width:0.0390791"
+         id="tspan2111">Rectangle(Triangle)=Sum2(1).AxisCenter.AreaCut</tspan><tspan
+         sodipodi:role="line"
+         x="109.85857"
+         y="17.90914"
+         style="stroke-width:0.0390791"
+         id="tspan2113">AreaScale.Smallist=Shape.Count1</tspan><tspan
+         sodipodi:role="line"
+         x="109.85857"
+         y="22.077589"
+         style="stroke-width:0.0390791"
+         id="tspan2115">AreaScale.Biggist=Shape.Count1</tspan><tspan
+         sodipodi:role="line"
+         x="109.85857"
+         y="26.246038"
+         style="stroke-width:0.0390791"
+         id="tspan2119">Rectangle(Circle)=Sum2(1).AxisCenter.AreaCut</tspan><tspan
+         sodipodi:role="line"
+         x="109.85857"
+         y="30.414488"
+         style="stroke-width:0.0390791"
+         id="tspan2123">AreaScale.AreaEquals=Shape.Count4</tspan><tspan
+         sodipodi:role="line"
+         x="109.85857"
+         y="34.582935"
+         style="stroke-width:0.0390791"
+         id="tspan2117" /></text>
+    <path
+       id="path2150"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m -47.740706,68.391964 v 29.105719 h 29.10572 V 68.391964 Z m 14.60273,0.49506 a 14.057845,14.057845 0 0 1 13.52889,10.419519 14.057845,14.057845 0 0 1 -9.94048,17.21704 14.057845,14.057845 0 0 1 -17.21704,-9.94048 14.057845,14.057845 0 0 1 9.94048,-17.217029 14.057845,14.057845 0 0 1 3.68815,-0.47905 z" />
+    <text
+       id="text889"
+       y="176.39459"
+       x="8.2597628"
+       style="font-size:4.58963px;line-height:1.25;font-family:sans-serif;stroke-width:0.143425"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.143425"
+         y="176.39459"
+         x="8.2597628"
+         id="tspan887"
+         sodipodi:role="line">Analytical.InsideFirst:AreaMaxium.Merge.</tspan><tspan
+         id="tspan891"
+         style="stroke-width:0.143425"
+         y="182.4623"
+         x="8.2597628"
+         sodipodi:role="line">Stack：Flat.Route.Earth.Area.Shrinp(k).Divide</tspan><tspan
+         id="tspan893"
+         style="stroke-width:0.143425"
+         y="188.52998"
+         x="8.2597628"
+         sodipodi:role="line">Fixed：SideKorner.Left|Right.Colapse</tspan><tspan
+         id="tspan895"
+         style="stroke-width:0.143425"
+         y="194.59769"
+         x="8.2597628"
+         sodipodi:role="line">Colorlet：Inside.Measure.Length.SolidRectangle</tspan><tspan
+         id="tspan941"
+         style="stroke-width:0.143425"
+         y="200.66537"
+         x="8.2597628"
+         sodipodi:role="line">Fixed：Height.Measure$Axis.Angle.Route.Line-Axis.SideCenter</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.191833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1079-8-5-1"
+       width="25.30142"
+       height="25.316614"
+       x="9.4456501"
+       y="-244.927"
+       rx="0"
+       ry="0"
+       transform="scale(1,-1)" />
+    <path
+       inkscape:transform-center-y="-5.6223838"
+       inkscape:transform-center-x="0.079189078"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.6086912"
+       sodipodi:arg1="0.56149366"
+       sodipodi:r2="6.8966923"
+       sodipodi:r1="13.793383"
+       sodipodi:cy="46.532131"
+       sodipodi:cx="145.64082"
+       sodipodi:sides="3"
+       id="path2829-1-8-5-7"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.183933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       sodipodi:type="star"
+       transform="matrix(1.0544942,-0.03265833,0.03263873,1.0551275,-132.94921,193.21706)"
+       d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z" />
+    <text
+       id="text945"
+       y="182.07326"
+       x="96.177368"
+       style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="182.07326"
+         x="96.177368"
+         id="tspan943"
+         sodipodi:role="line" /></text>
+    <text
+       id="text955"
+       y="173.94656"
+       x="123.16549"
+       style="font-size:3.75742px;line-height:1.25;font-family:sans-serif;stroke-width:0.117419"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.117419"
+         y="173.94656"
+         x="123.16549"
+         id="tspan953"
+         sodipodi:role="line">Usual.Axis.CenterAroundShrink</tspan><tspan
+         id="tspan959"
+         style="stroke-width:0.117419"
+         y="178.64334"
+         x="123.16549"
+         sodipodi:role="line">Renliy.Standout.Axis.ApisodaCenter.StickTransed.Pushed</tspan><tspan
+         id="tspan961"
+         style="stroke-width:0.117419"
+         y="183.34012"
+         x="123.16549"
+         sodipodi:role="line">    Kolor.Comfert</tspan><tspan
+         id="tspan963"
+         style="stroke-width:0.117419"
+         y="188.0369"
+         x="123.16549"
+         sodipodi:role="line">Earth.Directive.</tspan></text>
+    <text
+       id="text988"
+       y="259.29752"
+       x="9.9795227"
+       style="font-size:4.30434px;line-height:1.25;font-family:sans-serif;stroke-width:0.13451"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.13451"
+         y="259.29752"
+         x="9.9795227"
+         id="tspan986"
+         sodipodi:role="line">LeonBrain.Dimention.Complexity.LeadTo:EasyFirst</tspan><tspan
+         id="tspan990"
+         style="stroke-width:0.13451"
+         y="264.67795"
+         x="9.9795227"
+         sodipodi:role="line">名词：Simplicity Moderate</tspan><tspan
+         id="tspan992"
+         style="stroke-width:0.13451"
+         y="270.16678"
+         x="9.9795227"
+         sodipodi:role="line">正确测量优先：</tspan><tspan
+         id="tspan994"
+         style="stroke-width:0.13451"
+         y="275.65561"
+         x="9.9795227"
+         sodipodi:role="line">名词：数词：用了一个ComputerScreen.Route.Line.Solid.Rectangle</tspan><tspan
+         id="tspan996"
+         style="stroke-width:0.13451"
+         y="281.14444"
+         x="9.9795227"
+         sodipodi:role="line">ComputerScreen.Renliy.NeverAxis.AngleOut.Leadito-&gt;LeonStickColor.Flat.//不会从角顶</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.191833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1072"
+       width="25.30142"
+       height="25.316616"
+       x="53.345318"
+       y="-244.73062"
+       rx="0"
+       ry="0"
+       transform="scale(1,-1)" />
+    <path
+       inkscape:transform-center-y="-5.6223838"
+       inkscape:transform-center-x="0.079189078"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.6086912"
+       sodipodi:arg1="0.56149366"
+       sodipodi:r2="6.8966923"
+       sodipodi:r1="13.793383"
+       sodipodi:cy="46.532131"
+       sodipodi:cx="145.64082"
+       sodipodi:sides="3"
+       id="path1074"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.183933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       sodipodi:type="star"
+       transform="matrix(1.0544942,-0.03265833,0.03263873,1.0551275,-89.049539,193.02068)"
+       d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z" />
+    <path
+       style="fill:none;stroke:#ff5555;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.26458300000000001;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 53.438438,222.76634 c 8.39463,0 16.78901,0 20.98606,0.006 4.19705,0.006 4.19705,0.0164 4.19705,0.0269"
+       id="path1078"
+       inkscape:path-effect="#path-effect1080"
+       inkscape:original-d="m 53.438438,222.76634 c 8.39463,2.6e-4 16.78901,2.6e-4 25.18311,0 2.7e-4,0.0111 2.7e-4,0.022 0,0.0325" />
+    <path
+       style="fill:none;stroke:#000080;stroke-width:0.247767;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.99106799,0.247767;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 66.14779,222.80123 c 0,7.36142 0,14.72263 -0.0055,18.4031 -0.0055,3.68047 -0.01645,3.68047 -0.02695,3.68047"
+       id="path1086"
+       inkscape:path-effect="#path-effect1088"
+       inkscape:original-d="m 66.14779,222.80123 c -2.6e-4,7.36142 -2.6e-4,14.72263 0,22.08357 -0.0111,2.4e-4 -0.022,2.4e-4 -0.0325,0" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3,0.5;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 66.180295,219.47211 c 0,1.10976 0,2.21947 -0.0056,2.77431 -0.0056,0.55484 -0.01645,0.55484 -0.02693,0.55484"
+       id="path1090"
+       inkscape:path-effect="#path-effect1092"
+       inkscape:original-d="m 66.180295,219.47211 c -2.61e-4,1.10976 -2.61e-4,2.21947 0,3.32915 -0.01111,3e-5 -0.022,3e-5 -0.03249,0" />
+    <rect
+       y="211.6759"
+       x="65.606888"
+       height="0.45152712"
+       width="0.45152712"
+       id="rect1140"
+       style="fill:#ff0000;stroke:#000080;stroke-width:0.0961972;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.577183, 0.09619720000000000;stroke-dashoffset:0;paint-order:markers fill stroke" />
+    <circle
+       r="0.45606616"
+       cy="233.88422"
+       cx="64.168159"
+       id="path1150"
+       style="fill:#000000;stroke:#000000;stroke-width:0.194328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.16597, 0.194328;stroke-dashoffset:0;paint-order:markers fill stroke" />
+    <path
+       d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z"
+       transform="matrix(0.03179098,-9.8458604e-4,9.8399514e-4,0.03181007,49.005433,221.80926)"
+       sodipodi:type="star"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.183933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path1152"
+       sodipodi:sides="3"
+       sodipodi:cx="145.64082"
+       sodipodi:cy="46.532131"
+       sodipodi:r1="13.793383"
+       sodipodi:r2="6.8966923"
+       sodipodi:arg1="0.56149366"
+       sodipodi:arg2="1.6086912"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       inkscape:transform-center-x="0.0023871469"
+       inkscape:transform-center-y="-0.16950107" />
+    <rect
+       ry="0"
+       rx="0"
+       y="219.60417"
+       x="87.3125"
+       height="2.645833"
+       width="2.645833"
+       id="rect948"
+       style="fill:none;stroke:#000000;stroke-width:0.0999993;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.91505px;line-height:1.25;font-family:sans-serif;stroke-width:0.122345"
+       x="97.393234"
+       y="216.5643"
+       id="text967"><tspan
+         sodipodi:role="line"
+         id="tspan965"
+         x="97.393234"
+         y="216.5643"
+         style="stroke-width:0.122345">Rectangle.Drag.MiniumAnalytical</tspan><tspan
+         sodipodi:role="line"
+         x="97.393234"
+         y="221.45811"
+         style="stroke-width:0.122345"
+         id="tspan969">Count.Computer.RulerGrid:1,4,9</tspan><tspan
+         sodipodi:role="line"
+         x="97.393234"
+         y="226.35193"
+         style="stroke-width:0.122345"
+         id="tspan1005">Kolor=Axis.Side4</tspan><tspan
+         sodipodi:role="line"
+         x="97.393234"
+         y="231.24574"
+         style="stroke-width:0.122345"
+         id="tspan1007">    Area.Computer.Offset</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.26323px;line-height:1.25;font-family:sans-serif;stroke-width:0.101976"
+       x="91.359985"
+       y="238.30461"
+       id="text973"><tspan
+         sodipodi:role="line"
+         id="tspan971"
+         x="91.359985"
+         y="238.30461"
+         style="stroke-width:0.101976">RectangleMergeTriangle.Analytical.Dotline</tspan><tspan
+         sodipodi:role="line"
+         x="91.359985"
+         y="242.38365"
+         style="stroke-width:0.101976"
+         id="tspan997">Offset2:GridRectangle4.Direction.BottomFirst.CenterMark</tspan><tspan
+         sodipodi:role="line"
+         x="91.359985"
+         y="246.46269"
+         style="stroke-width:0.101976"
+         id="tspan995">Offset1:GridRectangle1.Direction.BottomFirst.NoCenterMark</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#000000;stroke-width:0.01;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+       id="path975"
+       sodipodi:sides="3"
+       sodipodi:cx="80.697914"
+       sodipodi:cy="206.375"
+       sodipodi:r1="1.3229167"
+       sodipodi:r2="0.66145831"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 80.697914,205.05208 0.57284,0.99219 0.57284,0.99219 -1.14568,0 -1.145679,0 0.572839,-0.99219 z"
+       inkscape:transform-center-x="1.0166666e-06"
+       inkscape:transform-center-y="-0.33073176" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#000000;stroke-width:0.01;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+       id="path977"
+       sodipodi:sides="3"
+       sodipodi:cx="83.34375"
+       sodipodi:cy="209.02083"
+       sodipodi:r1="1.3229167"
+       sodipodi:r2="0.66145831"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 83.34375,207.69791 0.57284,0.99219 0.572839,0.99219 -1.145679,0 -1.14568,0 0.57284,-0.99219 z"
+       inkscape:transform-center-x="1.05e-06"
+       inkscape:transform-center-y="-0.3307318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 87.312499,222.25 c 0,0 1.322917,-1.32292 1.322917,-1.32292"
+       id="path983"
+       inkscape:path-effect="#path-effect985"
+       inkscape:original-d="m 87.312499,222.25 1.322917,-1.32292" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 89.958332,222.25 c 0,0 -1.322916,-1.32292 -1.322916,-1.32292"
+       id="path987"
+       inkscape:path-effect="#path-effect989"
+       inkscape:original-d="m 89.958332,222.25 -1.322916,-1.32292" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 88.635416,220.92708 c 0,0 0,-0.52917 0,-0.52917"
+       id="path991"
+       inkscape:path-effect="#path-effect993"
+       inkscape:original-d="m 88.635416,220.92708 v -0.52917" />
+    <circle
+       style="fill:none;stroke:#6c5353;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+       id="path999"
+       cx="66.046257"
+       cy="222.89507"
+       r="0.99467254" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.75993px;line-height:1.25;font-family:sans-serif;stroke-width:0.0549975"
+       x="67.78344"
+       y="224.7113"
+       id="text1003"><tspan
+         sodipodi:role="line"
+         id="tspan1001"
+         x="67.78344"
+         y="224.7113"
+         style="stroke-width:0.0549975">Leon.Ionic</tspan></text>
+  </g>
+</svg>

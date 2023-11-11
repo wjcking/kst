@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="fonk-circle.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4307099"
+     inkscape:cx="396.85039"
+     inkscape:cy="561.25984"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="2766"
+     inkscape:window-height="1880"
+     inkscape:window-x="102"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect833"
+       width="41.546497"
+       height="41.546497"
+       x="120.70797"
+       y="15.687282" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect841"
+       width="41.546497"
+       height="41.546497"
+       x="120.70797"
+       y="15.687282"
+       rx="20.773249"
+       ry="20.773249" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.210903;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect843"
+       width="29.207561"
+       height="29.207561"
+       x="113.3024"
+       y="-85.382423"
+       transform="rotate(43.3824)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="124.68488"
+       y="37.939362"
+       id="text847"><tspan
+         sodipodi:role="line"
+         id="tspan845"
+         x="124.68488"
+         y="37.939362"
+         style="stroke-width:0.264583">L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="6.898066"
+       y="10.394346"
+       id="text851"><tspan
+         sodipodi:role="line"
+         x="6.898066"
+         y="10.394346"
+         style="stroke-width:0.264583"
+         id="tspan853">Fonc.Inside.Artfoc</tspan><tspan
+         sodipodi:role="line"
+         x="6.898066"
+         y="14.804059"
+         style="stroke-width:0.264583"
+         id="tspan861"> Wrapper</tspan><tspan
+         sodipodi:role="line"
+         x="6.898066"
+         y="19.213772"
+         style="stroke-width:0.264583"
+         id="tspan863">  Ryber</tspan><tspan
+         sodipodi:role="line"
+         x="6.898066"
+         y="23.623484"
+         style="stroke-width:0.264583"
+         id="tspan865">  Central.Ruler.Roller.Campass</tspan><tspan
+         sodipodi:role="line"
+         x="6.898066"
+         y="28.033195"
+         style="stroke-width:0.264583"
+         id="tspan871">  Center.Rotate.Without.Fonicalled.Leatio.Offset</tspan><tspan
+         sodipodi:role="line"
+         x="6.898066"
+         y="32.442909"
+         style="stroke-width:0.264583"
+         id="tspan873">  Keypoint:FirstPerson.</tspan><tspan
+         sodipodi:role="line"
+         x="6.898066"
+         y="36.852623"
+         style="stroke-width:0.264583"
+         id="tspan877">    //在一个平面内，围绕一个点</tspan><tspan
+         sodipodi:role="line"
+         x="6.898066"
+         y="41.351181"
+         style="stroke-width:0.264583"
+         id="tspan850">    //并以一定长度为距离旋转一周所形成的封闭曲线叫做圆(Circle)。</tspan><tspan
+         sodipodi:role="line"
+         x="6.898066"
+         y="45.849743"
+         style="stroke-width:0.264583"
+         id="tspan883">    //https://baike.baidu.com/item/%E5%9C%86/54084</tspan><tspan
+         sodipodi:role="line"
+         x="6.898066"
+         y="50.259457"
+         style="stroke-width:0.264583"
+         id="tspan879">      </tspan><tspan
+         sodipodi:role="line"
+         x="6.898066"
+         y="54.758018"
+         style="stroke-width:0.264583"
+         id="tspan875">  Axiz.Angle</tspan><tspan
+         sodipodi:role="line"
+         x="6.898066"
+         y="59.167728"
+         style="stroke-width:0.264583"
+         id="tspan867">  Axis.Central.Regardless</tspan><tspan
+         sodipodi:role="line"
+         x="6.898066"
+         y="63.577442"
+         style="stroke-width:0.264583"
+         id="tspan864">   Renliy.EyeVision.TopView.Rotate</tspan><tspan
+         sodipodi:role="line"
+         x="6.898066"
+         y="67.987152"
+         style="stroke-width:0.264583"
+         id="tspan866">     RenlayLeonical.WholeBody.FeelThink.Fusional</tspan><tspan
+         sodipodi:role="line"
+         x="6.898066"
+         y="72.396866"
+         style="stroke-width:0.264583"
+         id="tspan862"> </tspan><tspan
+         sodipodi:role="line"
+         x="6.898066"
+         y="76.895432"
+         style="stroke-width:0.264583"
+         id="tspan869"> </tspan><tspan
+         sodipodi:role="line"
+         x="6.898066"
+         y="81.39399"
+         style="stroke-width:0.264583"
+         id="tspan857" /><tspan
+         sodipodi:role="line"
+         x="6.898066"
+         y="85.803703"
+         style="stroke-width:0.264583"
+         id="tspan859">FoncAvery</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect852"
+       width="41.546497"
+       height="41.546497"
+       x="166.34859"
+       y="15.498293" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect854"
+       width="41.546497"
+       height="41.546497"
+       x="166.34859"
+       y="15.498293"
+       rx="20.773249"
+       ry="20.773249" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.210903;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect856"
+       width="29.207561"
+       height="29.207561"
+       x="172.82684"
+       y="20.494804"
+       transform="rotate(0.34431542)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="135.4572"
+       y="35.860493"
+       id="text860"><tspan
+         sodipodi:role="line"
+         id="tspan858"
+         x="135.4572"
+         y="35.860493"
+         style="stroke-width:0.264583">Topview</tspan><tspan
+         sodipodi:role="line"
+         x="135.4572"
+         y="40.270206"
+         style="stroke-width:0.264583"
+         id="tspan2006"> Rotate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="139.89842"
+       y="22.158855"
+       id="text870"><tspan
+         sodipodi:role="line"
+         id="tspan868"
+         x="139.89842"
+         y="22.158855"
+         style="stroke-width:0.264583">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="155.11197"
+       y="36.805435"
+       id="text874"><tspan
+         sodipodi:role="line"
+         id="tspan872"
+         x="155.11197"
+         y="36.805435"
+         style="stroke-width:0.264583">R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="141.07962"
+       y="51.593746"
+       id="text878"><tspan
+         sodipodi:role="line"
+         id="tspan876"
+         x="141.07962"
+         y="51.593746"
+         style="stroke-width:0.264583">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="174.10527"
+       y="47.95573"
+       id="text882"><tspan
+         sodipodi:role="line"
+         id="tspan880"
+         x="174.10527"
+         y="47.95573"
+         style="stroke-width:0.264583">Renlay.Axis</tspan></text>
+    <rect
+       style="fill:#f9f9f9;stroke:#1a1a1a;stroke-width:0.125104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1002"
+       width="32.081367"
+       height="4.5063"
+       x="-61.30183"
+       y="146.6584" />
+    <circle
+       r="9.2935314"
+       cy="148.91154"
+       cx="-45.261154"
+       id="circle1004"
+       style="fill:#f9f9f9;stroke:#1a1a1a;stroke-width:0.134588;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="fill:#f9f9f9;stroke:#808080;stroke-width:0.232568;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle1006"
+       cx="-45.261154"
+       cy="148.91154"
+       r="3.5493064" />
+    <circle
+       style="fill:#e6e6e6;stroke:#e6e6e6;stroke-width:0.18661;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle1008"
+       cx="-45.261154"
+       cy="148.91154"
+       r="2.8479366" />
+    <g
+       id="g1046"
+       transform="matrix(0.12304219,-0.60429669,0.58057849,0.11821287,-95.77201,216.6507)"
+       style="stroke:#0c0404;stroke-width:0.249906;stroke-miterlimit:4;stroke-dasharray:0.999625, 0.249906;stroke-dashoffset:0;stroke-opacity:1">
+      <rect
+         transform="rotate(90)"
+         y="-109.33302"
+         x="78.503296"
+         height="7.2962017"
+         width="37.971371"
+         id="rect1040"
+         style="fill:#f9f9f9;stroke:#0c0404;stroke-width:0.249906;stroke-miterlimit:4;stroke-dasharray:0.999625, 0.249906;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         transform="rotate(90)"
+         r="3.404916"
+         cy="-105.68491"
+         cx="97.488983"
+         id="circle1042"
+         style="fill:#f9f9f9;stroke:#0c0404;stroke-width:0.249906;stroke-miterlimit:4;stroke-dasharray:0.999625, 0.249906;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         transform="rotate(90)"
+         r="2.7320788"
+         cy="-105.68491"
+         cx="97.488983"
+         id="circle1044"
+         style="fill:#cccccc;stroke:#0c0404;stroke-width:0.249906;stroke-miterlimit:4;stroke-dasharray:0.999625, 0.249906;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       style="stroke:#5e5e5e;stroke-width:0.249906;stroke-miterlimit:4;stroke-dasharray:0.749719, 0.249906;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(-0.40364929,0.46624155,-0.44794191,-0.38780635,60.154619,152.85118)"
+       id="g1054">
+      <rect
+         style="fill:#f9f9f9;stroke:#5e5e5e;stroke-width:0.249906;stroke-miterlimit:4;stroke-dasharray:0.749719, 0.249906;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1048"
+         width="37.971371"
+         height="7.2962017"
+         x="78.503296"
+         y="-109.33302"
+         transform="rotate(90)" />
+      <circle
+         style="fill:#f9f9f9;stroke:#5e5e5e;stroke-width:0.249906;stroke-miterlimit:4;stroke-dasharray:0.749719, 0.249906;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1050"
+         cx="97.488983"
+         cy="-105.68491"
+         r="3.404916"
+         transform="rotate(90)" />
+      <circle
+         style="fill:#cccccc;stroke:#5e5e5e;stroke-width:0.249906;stroke-miterlimit:4;stroke-dasharray:0.749719, 0.249906;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1052"
+         cx="97.488983"
+         cy="-105.68491"
+         r="2.7320788"
+         transform="rotate(90)" />
+    </g>
+    <g
+       transform="matrix(-0.61669599,0,0,-0.59249112,-6.6916602,207.15644)"
+       id="g1062">
+      <rect
+         style="fill:#f9f9f9;stroke:#1a1a1a;stroke-width:0.173186;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1056"
+         width="37.971371"
+         height="7.2962017"
+         x="78.503296"
+         y="-109.33302"
+         transform="rotate(90)" />
+      <circle
+         style="fill:#f9f9f9;stroke:#1a1a1a;stroke-width:0.223106;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1058"
+         cx="97.488983"
+         cy="-105.68491"
+         r="3.404916"
+         transform="rotate(90)" />
+      <circle
+         style="fill:#cccccc;stroke:#e6e6e6;stroke-width:0.179019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1060"
+         cx="97.488983"
+         cy="-105.68491"
+         r="2.7320788"
+         transform="rotate(90)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="179.7749"
+       y="33.781624"
+       id="text2012"><tspan
+         sodipodi:role="line"
+         id="tspan2008"
+         x="179.7749"
+         y="33.781624"
+         style="stroke-width:0.264583">Think</tspan><tspan
+         sodipodi:role="line"
+         x="179.7749"
+         y="38.191338"
+         style="stroke-width:0.264583"
+         id="tspan2010">ThereJust</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2018"
+       width="41.546497"
+       height="41.546497"
+       x="121.11752"
+       y="62.115128" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0"
+       id="rect2020"
+       width="41.546497"
+       height="41.546497"
+       x="121.11752"
+       y="62.115128"
+       rx="20.773249"
+       ry="20.773249" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.210903;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2022"
+       width="29.207561"
+       height="29.207561"
+       x="145.48967"
+       y="-51.920624"
+       transform="rotate(43.3824)" />
+    <rect
+       style="fill:none;stroke:#999999;stroke-width:0.210903;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2046"
+       width="29.207561"
+       height="29.207561"
+       x="135.39113"
+       y="-81.864365"
+       transform="rotate(54.413753)" />
+    <rect
+       style="fill:none;stroke:#999999;stroke-width:0.210903;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2048"
+       width="29.207561"
+       height="29.207561"
+       x="67.741982"
+       y="-156.87688"
+       transform="rotate(90.199693)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2050"
+       width="41.546497"
+       height="21.254158"
+       x="57.428539"
+       y="155.45137" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0"
+       id="rect2052"
+       width="41.546497"
+       height="21.254158"
+       x="57.428539"
+       y="155.45137"
+       rx="20.773249"
+       ry="10.627079" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.234247;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2054"
+       width="23.577709"
+       height="22.812988"
+       x="214.03387"
+       y="132.13022"
+       transform="matrix(0.90346217,0.42866782,-0.87591564,0.48246429,0,0)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2064"
+       width="41.546497"
+       height="41.546497"
+       x="15.882043"
+       y="135.15903" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0"
+       id="rect2066"
+       width="41.546497"
+       height="41.546497"
+       x="15.882043"
+       y="135.15903"
+       rx="20.773249"
+       ry="20.773249" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.210903;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2068"
+       width="29.207561"
+       height="29.207561"
+       x="119.17728"
+       y="73.449127"
+       transform="rotate(43.3824)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2070"
+       width="41.546497"
+       height="41.546497"
+       x="161.35243"
+       y="107.04668" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.167467;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2072"
+       width="23.577709"
+       height="22.812988"
+       x="-135.25798"
+       y="-282.25464"
+       transform="matrix(-0.43915942,0.89840915,-0.47223169,-0.88147447,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="6.7498484"
+       y="93.240395"
+       id="text2076"><tspan
+         sodipodi:role="line"
+         id="tspan2074"
+         x="6.7498484"
+         y="93.240395"
+         style="stroke-width:0.264583">Fonc.Inside.Circle</tspan><tspan
+         sodipodi:role="line"
+         x="6.7498484"
+         y="97.650108"
+         style="stroke-width:0.264583"
+         id="tspan2084">  Compress:Outside.MouseDrag</tspan><tspan
+         sodipodi:role="line"
+         x="6.7498484"
+         y="102.05982"
+         style="stroke-width:0.264583"
+         id="tspan2098">   HalfSize.Self</tspan><tspan
+         sodipodi:role="line"
+         x="6.7498484"
+         y="106.46954"
+         style="stroke-width:0.264583"
+         id="tspan2094">  Eclipse:Versus:Accurate</tspan><tspan
+         sodipodi:role="line"
+         x="6.7498484"
+         y="110.87924"
+         style="stroke-width:0.264583"
+         id="tspan2096">   Eryia.Inside.SidePush</tspan><tspan
+         sodipodi:role="line"
+         x="6.7498484"
+         y="115.28896"
+         style="stroke-width:0.264583"
+         id="tspan2082">  </tspan><tspan
+         sodipodi:role="line"
+         x="6.7498484"
+         y="119.78752"
+         style="stroke-width:0.264583"
+         id="tspan2078" /><tspan
+         sodipodi:role="line"
+         x="6.7498484"
+         y="124.19724"
+         style="stroke-width:0.264583"
+         id="tspan2080">Fonc:Clipse</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2086"
+       width="41.546497"
+       height="21.254158"
+       x="114.50014"
+       y="-152.42336"
+       rx="20.773249"
+       ry="10.627079"
+       transform="rotate(90)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2088"
+       width="41.546497"
+       height="21.254158"
+       x="41.714325"
+       y="-196.36986"
+       rx="20.773249"
+       ry="10.627079"
+       transform="rotate(115.0574)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2090"
+       width="41.546497"
+       height="21.254158"
+       x="-38.447651"
+       y="-205.8006"
+       rx="20.773249"
+       ry="10.627079"
+       transform="rotate(138.82581)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2112"
+       width="41.546497"
+       height="21.254158"
+       x="82.405121"
+       y="190.29578" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0"
+       id="rect2114"
+       width="41.546497"
+       height="21.254158"
+       x="82.405121"
+       y="190.29578"
+       rx="20.773249"
+       ry="10.627079" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.234247;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2116"
+       width="23.577709"
+       height="22.812988"
+       x="266.56906"
+       y="155.47319"
+       transform="matrix(0.89904996,0.43784606,-0.88078343,0.47351933,0,0)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2118"
+       width="41.546497"
+       height="41.546497"
+       x="82.405853"
+       y="180.51617" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0"
+       id="rect2120"
+       width="41.546497"
+       height="41.546497"
+       x="82.405853"
+       y="180.51617"
+       rx="20.773249"
+       ry="20.773249" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.210903;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2122"
+       width="29.207561"
+       height="29.207561"
+       x="198.68004"
+       y="60.721222"
+       transform="rotate(43.3824)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.193945;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2124"
+       width="14.944418"
+       height="14.944418"
+       x="65.196274"
+       y="-176.0726"
+       transform="rotate(131.44212)" />
+  </g>
+</svg>
