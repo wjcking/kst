@@ -1,0 +1,104 @@
+﻿<!DOCTYPE>
+<html>
+<head>
+
+    <title></title>
+    <!--  <script src="../content/jquery/jquery-3.5.1.min.js"></script>-->
+    <script src="../../content/vue/vue.min.js"></script>
+    <script src="../../models/ket-struct.js"></script>
+</head>
+
+<body>
+    <pre id="preditor">
+{{content}}
+
+{{details()}}
+ </pre>
+    <script>
+      
+        //分割下面段落文字用“，”        
+        //用，分割文件 "sdcard/files/abc.txt" \\用工具栏载入path
+
+        //Frequent:Statistic
+        //Kint.Count = nouns:树 80次 verb:砍 verb:伐
+        //Start End Length
+
+        var Rint = [
+
+        ]
+        var getDetails = function () {
+
+            var result = ""
+            try {
+
+
+                Asniks.forEach(function (rect, r) {
+
+                    rect.split(' ').forEach(function (item) {
+                        result += item + "\n";
+                    });
+                });
+
+
+            } catch (exception) {
+
+                document.write(exception)
+            }
+            return result;
+        }
+
+        var vm = new Vue({
+            el: '#preditor',
+            data: {
+                content: null,
+            },
+            methods: {
+                details: function () {
+
+                    this.content = getDetails();
+
+                    //  // return this.content;
+                }
+            }
+        })
+
+        //minor incompitable ie es6 class
+    </script>
+</body>
+
+</html>
+
+<!--Analytical.Require.Developer.AmericaComputer.Serials.Language.HtmlFirst
+Program.Language.C:
+提取动词前缀：用  提取 把
+点词：的
+提取动词后缀： with 用
+参数数词：两 三 四
+
+
+match	找到一个或多个正则表达式的匹配
+search	检索与正则表达式相匹配的值
+charCodeAt	返回指定索引位置字符的 Unicode 值
+localeCompare	用本地特定的顺序来比较两个字符串
+
+toLocaleLowerCase	根据主机的语言环境把字符串转换为小写，只有几种语言（如土耳其语）具有地方特有的大小写映射
+toLocaleUpperCase	根据主机的语言环境把字符串转换为大写，只有几种语言（如土耳其语）具有地方特有的大小写映射
+
+
+trim	移除字符串首尾空白
+fromCharCode	将 Unicode 转换为字符串
+
+Impulse.Anaylize
+        Count  Sequence Prioirty
+        Separator Link Bracket
+        Line单条 
+        是否回车后
+        Func 否则也显示在一行python like
+        分隔“我是一头大幕铝” 用 ‘一’然后在列举出来
+        
+Impuluse.Sequence
+        记录 Line Pine
+        1.关键词 Splite 是否存在 如果不存在： Easyfirst 结束单条 不在分析函数 否则 有Bracket 如果有 EasyFirst 一个就行不在进行复杂操作 执行单条：提取和记录Pine Line            
+        2.是否混编 什么语言 如果混编 performance
+        3.初期多个结果 形成 habits
+-->

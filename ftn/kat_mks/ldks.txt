@@ -1,0 +1,43 @@
+﻿Textural.Layke.Contrast
+  Scrolly.String.LeftRight.Antifusial
+  Monika:Screenick.Karyect.AeroFusional
+Nextural:Hextural
+
+Textural:FileContent.Format:Article,Text
+  *Systemed.Enbreak.Retend 
+  *Retline.AreInclude
+  *TableIndent.AreInclude
+
+  Tablet
+  Passical:Passage
+  Fresck:PanelErick      
+    *CasualSerial.Limitless
+    *Blank.Beline:SingleLine
+    *Require.Distablet
+        
+    Distablent
+    Cybert.Separator.Space//Cybert.Quest.AnotherSeparators
+    Kodex.NameCount(1,5Plus)
+       
+    Fresck.Initialize //Hample
+    Kates.Beka.Each
+    ABCD
+    ABC DE FGH
+    
+    abt.kId
+    XXOXXXXOOOXXX
+    XOXOXXOXXXOXX
+    XXOXXXXOOOXXX
+
+    Charsitke.Katerake
+    10 02 03 04
+    10 02 03 04
+    10 02 03 04
+
+    Tkd
+    aaa bbb ccc ddd
+    qqq eee rrr ccc
+    zzz xxx ccc vvv
+    Tablet.Generalize
+Necksaiz
+
