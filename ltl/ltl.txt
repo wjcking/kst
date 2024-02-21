@@ -10,6 +10,9 @@ intellyer@eclipso.email intellyer20010101
   POP3-Server: 	mail.eclipso.de (Port: 995, Verbindungssicherheit: SSL)
   SMTP-Server: 	mail.eclipso.de (Port: 587, Verbindungssicherheit: SSL)
 
+//lank:lsk.zip
+wjcking1984328
+20010101
 /*
 *intel
 *https://app.infinityfree.net/accounts/epiz_32191325/login
