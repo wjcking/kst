@@ -7,12 +7,12 @@ fts_z:rsk.c.lsk
     dth.kst.l
     nl:url:ulv
 		    
-    //knt_e.tlm:255.2b2f
+    //tlm:255.2b2f
 		//lterative rkesw
-    fu.z
+    fkz
       rkr^s 
       rkl^rs    
-    nr
+    knt_aln
   trx:s:kl:krs
 rts//艾忑丝.美柯子 水米切木树
 

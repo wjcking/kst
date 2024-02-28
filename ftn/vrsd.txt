@@ -4,7 +4,7 @@ krls
 	klst.flkrs
 	snlus.slnsz^jxs_g:sls^sh
 	sls_ae^c.args
-	ulxs.jts.lxa
+	ulxs.nts.lxa
 kldr
 
 gls
@@ -15,7 +15,7 @@ gls
 	//thailand
     
 	knm
-		klm
-		//khm.er
-	kax.eou
+		khm
+		kax.eou
+	klm
 gls.al
