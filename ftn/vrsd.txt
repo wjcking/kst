@@ -13,9 +13,9 @@ gls
 	//greek:glck.kld:hlk_en.skr_eou
 	//laos.burma.cambodia.miadian
 	//thailand
-    
+  vbs  
 	knm
 		khm
 		kax.eou
 	klm
-gls.al
+brs
