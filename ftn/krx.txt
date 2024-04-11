@@ -15,6 +15,7 @@ krx.krk
 ksl:krl_e
 	r.ist.ln
 	b.lck//ict.ln
+	//l.vck
 	f.rsk//trx
 krt_e
 
