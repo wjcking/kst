@@ -67,3 +67,8 @@ Quntaint.Assmbily,Compile
 digit.argus.vesaid.rollback
 word.example:tablet
 
+txc
+klk.an
+hlk.ln
+brk:flt
+lktv.fktx.fgr
