@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.0747123"
-     inkscape:cx="962.11795"
-     inkscape:cy="506.64722"
-     inkscape:window-width="1858"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="2.3393799"
+     inkscape:cx="1421.5305"
+     inkscape:cy="243.44058"
+     inkscape:window-width="2160"
+     inkscape:window-height="1334"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -454,18 +454,19 @@
     <text
        id="text9228-6-0-7-2-4"
        y="37.934742"
-       x="370.93808"
+       x="-381.55542"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.60542px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0845019"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       transform="scale(-1,1)"><tspan
          style="stroke-width:0.0845019"
          y="37.934742"
-         x="370.93808"
+         x="-381.55542"
          id="tspan9226-8-1-9-1-2"
          sodipodi:role="line">下SOS</tspan><tspan
          id="tspan3882"
          style="stroke-width:0.0845019"
          y="42.441517"
-         x="370.93808"
+         x="-381.55542"
          sodipodi:role="line" /></text>
     <text
        id="text9228-6-4-2-6"
@@ -556,13 +557,14 @@
          sodipodi:role="line">感/神</tspan></text>
     <text
        id="text9228-6-0-6-3-1"
-       y="63.877224"
-       x="344.6655"
+       y="-345.25125"
+       x="-64.462967"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90751px;line-height:1.25;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0915823"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       transform="matrix(0,-1,-1,0,0,0)"><tspan
          style="stroke-width:0.0915823"
-         y="63.877224"
-         x="344.6655"
+         y="-345.25125"
+         x="-64.462967"
          id="tspan9226-8-1-1-9-7"
          sodipodi:role="line">鬼</tspan></text>
     <text
