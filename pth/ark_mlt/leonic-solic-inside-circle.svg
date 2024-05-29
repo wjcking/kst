@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
    version="1.1"
    id="svg137"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="solid.inside.fondcircle.svg">
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="leonic-solic-inside-circle.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs131" />
   <sodipodi:namedview
@@ -23,18 +23,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9384961"
-     inkscape:cx="141.48477"
-     inkscape:cy="204.46862"
+     inkscape:zoom="1.0747123"
+     inkscape:cx="104.67918"
+     inkscape:cy="447.0964"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1214"
-     inkscape:window-height="777"
-     inkscape:window-x="-8"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     inkscape:window-x="54"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata134">
     <rdf:RDF>
@@ -43,7 +46,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -116,15 +118,15 @@
        id="rect2137-8"
        width="16.695007"
        height="16.695007"
-       x="5.9009366"
-       y="29.182148"
+       x="14.605509"
+       y="34.056709"
        rx="0"
        ry="0" />
     <circle
        style="fill:#f9f9f9;stroke:#000000;stroke-width:0.286803;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="circle2139-7"
-       cx="-39.938629"
-       cy="4.0495467"
+       cx="-46.900002"
+       cy="11.195889"
        r="7.9929538"
        transform="rotate(-105)" />
     <rect
@@ -190,87 +192,58 @@
     <text
        xml:space="preserve"
        style="font-size:2.31706px;line-height:1.25;font-family:sans-serif;stroke-width:0.173779"
-       x="5.6668596"
-       y="9.2214861"
+       x="14.371431"
+       y="14.096046"
        id="text216"><tspan
          sodipodi:role="line"
          id="tspan214"
-         x="5.6668596"
-         y="9.2214861"
+         x="14.371431"
+         y="14.096046"
          style="stroke-width:0.173779">Axis.AbsoluteCenter.FondFirst:RuledCircle</tspan><tspan
          sodipodi:role="line"
-         x="5.6668596"
-         y="12.11781"
+         x="14.371431"
+         y="16.992373"
          style="stroke-width:0.173779"
          id="tspan98">  FondCenter.First</tspan><tspan
          sodipodi:role="line"
-         x="5.6668596"
-         y="15.014134"
+         x="14.371431"
+         y="19.888697"
          style="stroke-width:0.173779"
          id="tspan100">  CircleCenter.Second</tspan><tspan
          sodipodi:role="line"
-         x="5.6668596"
-         y="17.910461"
+         x="14.371431"
+         y="22.785023"
          style="stroke-width:0.173779"
          id="tspan102">  FondCircle.Center:UniqueOne</tspan><tspan
          sodipodi:role="line"
-         x="5.6668596"
-         y="20.806786"
+         x="14.371431"
+         y="25.681347"
          style="stroke-width:0.173779"
          id="tspan96">AreaCut.Shape.Tryant.Count = 4//Tryarc</tspan><tspan
          sodipodi:role="line"
-         x="5.6668596"
-         y="23.70311"
+         x="14.371431"
+         y="28.577673"
          style="stroke-width:0.173779"
          id="tspan883">Tryant.ArcSide</tspan></text>
     <path
-       style="fill:#ececec;stroke:#000000;stroke-width:0.071512;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="m 85.83658,15.408233 v 6.89195 a 9.3581786,10.049183 0 0 1 1.004985,-2.722331 9.3581786,10.049183 0 0 1 4.327307,-4.169619 z"
-       id="path285" />
-    <rect
-       y="20.896307"
-       x="79.893227"
-       height="3.6396091"
-       width="26.92923"
-       id="rect1254"
-       style="fill:#f9f9f9;stroke:#1a1a1a;stroke-width:0.103009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       style="fill:#f9f9f9;stroke:#1a1a1a;stroke-width:0.10876;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle175"
-       cx="93.357841"
-       cy="22.716108"
-       r="7.5100627" />
-    <circle
-       r="2.8681793"
-       cy="22.716108"
-       cx="93.357841"
-       id="path1252"
-       style="fill:#f9f9f9;stroke:#1a1a1a;stroke-width:0.187937;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       r="2.3014057"
-       cy="22.716108"
-       cx="93.357841"
-       id="circle177"
-       style="fill:#cccccc;stroke:#e6e6e6;stroke-width:0.150799;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
        style="fill:none;stroke:#000000;stroke-width:0.286803;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="m 44.648467,42.354137 a 9.4585304,9.4585304 0 0 1 -3.89985,3.899846 h 3.89985 z"
+       d="m 53.353039,47.228697 a 9.4585304,9.4585304 0 0 1 -3.89985,3.899846 h 3.89985 z"
        id="path318" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.286803;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="m 27.953407,42.354137 v 3.899846 h 3.900203 a 9.4585304,9.4585304 0 0 1 -3.900203,-3.899846 z"
+       d="m 36.657979,47.228697 v 3.899846 h 3.900203 a 9.4585304,9.4585304 0 0 1 -3.900203,-3.899846 z"
        id="path316" />
     <path
        style="fill:#ececec;stroke:#000000;stroke-width:0.286803;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="m 18.696093,29.182148 a 9.4585304,9.4585304 0 0 1 3.89985,3.899845 v -3.899845 z"
+       d="m 27.400665,34.056708 a 9.4585304,9.4585304 0 0 1 3.89985,3.899845 v -3.899845 z"
        id="path314" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.286803;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="m 27.953407,29.558923 v 3.900203 a 9.4585304,9.4585304 0 0 1 3.899847,-3.900203 z"
+       d="m 36.657979,34.433483 v 3.900203 a 9.4585304,9.4585304 0 0 1 3.899847,-3.900203 z"
        id="rect295" />
     <rect
-       y="21.675516"
-       x="139.50647"
+       y="48.953362"
+       x="116.20636"
        height="3.6396091"
        width="26.92923"
        id="rect1190"
@@ -278,100 +251,48 @@
     <circle
        style="fill:#f9f9f9;stroke:#1a1a1a;stroke-width:0.10876;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle1192"
-       cx="152.97108"
-       cy="23.495321"
+       cx="122.53146"
+       cy="37.232719"
        r="7.5100627" />
     <circle
        r="2.8681793"
-       cy="23.495321"
-       cx="152.97108"
+       cy="41.171757"
+       cx="136.56429"
        id="circle1194"
        style="fill:#f9f9f9;stroke:#1a1a1a;stroke-width:0.187937;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <circle
        r="2.3014057"
-       cy="23.495321"
-       cx="152.97108"
+       cy="41.417946"
+       cx="144.68855"
        id="circle1196"
-       style="fill:#cccccc;stroke:#e6e6e6;stroke-width:0.150799;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       ry="0"
-       rx="0"
-       y="-99.193024"
-       x="117.33392"
-       height="15.0862"
-       width="15.010014"
-       id="rect1198"
-       style="fill:none;stroke:#000000;stroke-width:0.14184;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       transform="rotate(45)" />
-    <rect
-       y="20.989836"
-       x="109.18423"
-       height="3.6396091"
-       width="26.92923"
-       id="rect873"
-       style="fill:#f9f9f9;stroke:#1a1a1a;stroke-width:0.103009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       style="fill:#f9f9f9;stroke:#1a1a1a;stroke-width:0.10876;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle875"
-       cx="122.64885"
-       cy="22.809641"
-       r="7.5100627" />
-    <circle
-       r="2.8681793"
-       cy="22.809641"
-       cx="122.64885"
-       id="circle877"
-       style="fill:#f9f9f9;stroke:#1a1a1a;stroke-width:0.187937;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       r="2.3014057"
-       cy="22.809641"
-       cx="122.64885"
-       id="circle879"
-       style="fill:#cccccc;stroke:#e6e6e6;stroke-width:0.150799;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       ry="0"
-       rx="0"
-       y="-130.30161"
-       x="15.277486"
-       height="15.0862"
-       width="15.010014"
-       id="rect881"
-       style="fill:none;stroke:#000000;stroke-width:0.14184;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       transform="rotate(90)" />
+       style="fill:#f9f9f9;stroke:#e6e6e6;stroke-width:0.150799;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-size:2.50189px;line-height:1.25;font-family:sans-serif;stroke-width:0.187642"
-       x="84.071754"
-       y="5.920321"
+       x="109.02486"
+       y="19.657719"
        id="text887"><tspan
          sodipodi:role="line"
          id="tspan885"
-         x="84.071754"
-         y="5.920321"
+         x="109.02486"
+         y="19.657719"
          style="stroke-width:0.187642">Tryant.AttachedLeon.HandleCorner.Direction:TopLeft</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.156041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect947"
        width="9.0832777"
        height="9.0832777"
-       x="8.5200882"
-       y="115.72202"
+       x="16.97847"
+       y="134.62941"
        rx="0"
        ry="0" />
-    <circle
-       style="fill:#f9f9f9;stroke:#000000;stroke-width:0.156041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="circle949"
-       cx="-123.10114"
-       cy="-5.2433472"
-       r="4.3487382"
-       transform="rotate(-105)" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.156041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect951"
        width="9.0832777"
        height="9.0832777"
-       x="17.603359"
-       y="115.72202"
+       x="26.061741"
+       y="134.62941"
        rx="0"
        ry="0" />
     <rect
@@ -379,8 +300,8 @@
        id="rect953"
        width="9.0832777"
        height="9.0832777"
-       x="26.686636"
-       y="115.72202"
+       x="35.14502"
+       y="134.62941"
        rx="0"
        ry="0" />
     <rect
@@ -388,117 +309,40 @@
        id="rect955"
        width="9.0832777"
        height="9.0832777"
-       x="35.769913"
-       y="115.72202"
-       rx="0"
-       ry="0" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.156041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="rect959"
-       width="9.0832777"
-       height="9.0832777"
-       x="53.183689"
-       y="115.4788"
+       x="44.228294"
+       y="134.62941"
        rx="0"
        ry="0" />
     <circle
-       style="fill:#f9f9f9;stroke:#000000;stroke-width:0.156041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;stroke:#000000;stroke-width:0.156041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="circle961"
-       cx="-135.63791"
-       cy="42.317104"
+       cx="-127.69321"
+       cy="-39.316822"
        r="4.3487382"
        transform="rotate(-105)" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.156041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="rect963"
-       width="9.0832777"
-       height="9.0832777"
-       x="62.26696"
-       y="115.4788"
-       rx="0"
-       ry="0" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.156041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="rect965"
-       width="9.0832777"
-       height="9.0832777"
-       x="71.35025"
-       y="115.4788"
-       rx="0"
-       ry="0" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.156041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="rect967"
-       width="9.0832777"
-       height="9.0832777"
-       x="80.433525"
-       y="115.4788"
-       rx="0"
-       ry="0" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.156041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="rect969"
-       width="9.0832777"
-       height="9.0832777"
-       x="89.516808"
-       y="115.4788"
-       rx="0"
-       ry="0" />
     <circle
-       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.131786;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;stroke:#000000;stroke-width:0.131786;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="circle971"
-       cx="-135.63791"
-       cy="42.317104"
-       r="3.6727598"
-       transform="rotate(-105)" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.156041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="rect973"
-       width="9.0832777"
-       height="9.0832777"
-       x="8.2498646"
-       y="100.81188"
-       rx="0"
-       ry="0" />
-    <circle
-       style="fill:#f9f9f9;stroke:#000000;stroke-width:0.156041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="circle975"
-       cx="-105.07437"
-       cy="-14.911856"
-       r="4.3487382"
-       transform="rotate(-105)" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.156041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="rect977"
-       width="9.0832777"
-       height="9.0832777"
-       x="17.333139"
-       y="100.81188"
-       rx="0"
-       ry="0" />
+       cx="-127.69321"
+       cy="-39.316822"
+       transform="rotate(-105)"
+       r="3.6727598" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.156041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect979"
        width="9.0832777"
        height="9.0832777"
-       x="53.595795"
-       y="100.41979"
+       x="39.404701"
+       y="117.11147"
        rx="0"
        ry="0" />
-    <circle
-       style="fill:#f9f9f9;stroke:#000000;stroke-width:0.156041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="circle981"
-       cx="-118.95041"
-       cy="37.720615"
-       r="4.3487382"
-       transform="rotate(-105)" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.156041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect983"
        width="9.0832777"
        height="9.0832777"
-       x="62.679073"
-       y="100.41979"
+       x="48.241787"
+       y="117.11147"
        rx="0"
        ry="0" />
     <rect
@@ -506,8 +350,8 @@
        id="rect985"
        width="9.0832777"
        height="9.0832777"
-       x="71.762352"
-       y="100.41979"
+       x="57.571262"
+       y="117.11147"
        rx="0"
        ry="0" />
     <rect
@@ -515,138 +359,90 @@
        id="rect995"
        width="9.0832777"
        height="9.0832777"
-       x="30.702278"
-       y="100.56718"
+       x="16.511187"
+       y="117.25884"
        rx="0"
        ry="0" />
-    <circle
-       style="fill:#f9f9f9;stroke:#000000;stroke-width:0.155959;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="circle997"
-       cx="-111.87427"
-       cy="11.411137"
-       r="4.3487382"
-       transform="rotate(-105)" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.155959;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect999"
        width="9.0832777"
        height="9.0832777"
-       x="39.785553"
-       y="100.56718"
+       x="25.594461"
+       y="117.25884"
        rx="0"
        ry="0" />
-    <circle
-       style="fill:#ececec;stroke:#000000;stroke-width:0.130778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="circle1001"
-       cx="-118.95041"
-       cy="37.720615"
-       r="3.6446683"
-       transform="rotate(-105)" />
     <text
        xml:space="preserve"
        style="font-size:2.47118px;line-height:1.25;font-family:sans-serif;stroke-width:0.185339"
-       x="6.3471193"
-       y="67.330193"
+       x="15.051691"
+       y="72.20475"
        id="text1005"><tspan
          sodipodi:role="line"
          id="tspan1003"
-         x="6.3471193"
-         y="67.330193"
+         x="15.051691"
+         y="72.20475"
          style="stroke-width:0.185339">FondNick.Ayonlet</tspan><tspan
          sodipodi:role="line"
-         x="6.3471193"
-         y="70.419167"
+         x="15.051691"
+         y="75.293724"
          style="stroke-width:0.185339"
          id="tspan1009">  FondCircle:Wrappered.CanbeCalled:Circle</tspan><tspan
          sodipodi:role="line"
-         x="6.3471193"
-         y="73.508141"
+         x="15.051691"
+         y="78.382698"
          style="stroke-width:0.185339"
          id="tspan1013">  FondLeonic.HandleInvisibled</tspan><tspan
          sodipodi:role="line"
-         x="6.3471193"
-         y="76.597115"
+         x="15.051691"
+         y="81.471672"
          style="stroke-width:0.185339"
          id="tspan1015">Ionic.Forms:OutsideFond.SideAttach.Duplicate.Measure</tspan><tspan
          sodipodi:role="line"
-         x="6.3471193"
-         y="79.686089"
+         x="15.051691"
+         y="84.560654"
          style="stroke-width:0.185339"
          id="tspan1025" /><tspan
          sodipodi:role="line"
-         x="6.3471193"
-         y="82.77507"
+         x="15.051691"
+         y="87.649628"
          style="stroke-width:0.185339"
          id="tspan1019">  Duplicate.Double</tspan><tspan
          sodipodi:role="line"
-         x="6.3471193"
-         y="85.864044"
+         x="15.051691"
+         y="90.738602"
          style="stroke-width:0.185339"
          id="tspan1017">  CenteralCircle.Moved.Cover.Fond.InterfacedBorder</tspan><tspan
          sodipodi:role="line"
-         x="6.3471193"
-         y="88.953018"
+         x="15.051691"
+         y="93.827576"
          style="stroke-width:0.185339"
          id="tspan1021">  Duplicate.Triple</tspan><tspan
          sodipodi:role="line"
-         x="6.3471193"
-         y="92.041992"
+         x="15.051691"
+         y="96.91655"
          style="stroke-width:0.185339"
          id="tspan1029">Axis.Circle.StableFirst:Bilaterial:Left(core)Right</tspan><tspan
          sodipodi:role="line"
-         x="6.3471193"
-         y="95.130966"
+         x="15.051691"
+         y="100.00552"
          style="stroke-width:0.185339"
          id="tspan1031">Axis.Circle.NeedStack:Core[right,right]</tspan></text>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.156041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="rect1033"
-       width="9.0832777"
-       height="9.0832777"
-       x="96.532784"
-       y="99.506401"
-       rx="0"
-       ry="0" />
-    <circle
-       style="fill:#f9f9f9;stroke:#000000;stroke-width:0.156041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="circle1035"
-       cx="-126.66267"
-       cy="70.700775"
-       r="4.3487382"
-       transform="rotate(-105)" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.156041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="rect1037"
-       width="9.0832777"
-       height="9.0832777"
-       x="105.61606"
-       y="99.506401"
-       rx="0"
-       ry="0" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.156041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="rect1039"
-       width="9.0832777"
-       height="9.0832777"
-       x="114.69933"
-       y="99.506401"
-       rx="0"
-       ry="0" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.276188;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect1041"
        width="16.077114"
        height="16.077114"
-       x="63.301334"
-       y="-25.789097"
+       x="72.903229"
+       y="-28.497324"
        rx="0"
        ry="0"
        transform="rotate(45)" />
     <circle
        style="fill:#f9f9f9;stroke:#000000;stroke-width:0.276188;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="circle1043"
-       cx="-1.3184079"
-       cy="73.503212"
+       cx="-1.1876149"
+       cy="83.478874"
        r="7.6971297"
        transform="rotate(-60)" />
     <g
@@ -690,7 +486,7 @@
            sodipodi:role="line">  Attentioned.CenterCircle</tspan><tspan
            id="tspan1133"
            style="stroke-width:0.165614"
-           y="70.390419"
+           y="70.390427"
            x="-78.675545"
            sodipodi:role="line">  Leon.Handleless.Small</tspan><tspan
            id="tspan1131"
