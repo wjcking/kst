@@ -1,7 +1,7 @@
 ﻿hzh.bls.ext
 
 //HZV JK.TS.RL
-hxc.jxs //asm jump loop
+hxc //asm jump loop
 	dsh.dnp.hks^c //jxs.jmp jws^a
     lnt.kam^a0//call
     rck.hxs //stack.lst
@@ -12,6 +12,6 @@ hxc.jxs //asm jump loop
     bsh^p//pop
 	dch.tsh.ktn //lnt.rpt^a thread steal stole
 
-  kam.enk:txc //call
-  dwf.main//dll exe rbd^u
+  kam.enk:txc //call INTERRUPT
+  dwf.main//dll exe RBD^U
 kbt
