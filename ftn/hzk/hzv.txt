@@ -20,8 +20,8 @@ lnt
   rpt.kst_adl //call slc.stp^o
 kam^o
 
-//ksh^n!jmp 
-//hzk:ts S[^C]_L!JK*TS
+//CAUTION!!!JMP 
+//HZK:TS S[^C]_L!JK*TS
 kst_adl
 //地流 寻环
 vts.atz//vcc.gnd
