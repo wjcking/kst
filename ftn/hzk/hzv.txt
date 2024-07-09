@@ -4,12 +4,6 @@
 *A hardware interrupt alerting signal external device
 *rl.time sensitive attention
 */
-hzv_hzh
-	hlx.hzk.wfs
-	bzk
-	atv^un.mgt.frd.vzs
-blt
-
 pcb.put^er
   smos.rsk^c
   bios.asc.lck^abt
@@ -22,17 +16,6 @@ kam^o
 
 //CAUTION!!!JMP 
 //HZK:TS S[^C]_L!JK*TS
-kst_adl
-//地流 寻环
-vts.atz//vcc.gnd
-//付忑 地压
-atv^ft.fld
-  hks^l.asc^ll
-  vtz.vns  
-vts.vzh
-
-hzv.hdz.lnk_th_l.jxs.lck_p
-hzk.rck^dlx
-  ksn.lnk_th
-  rft^u.klk_ln
-rck.fbk
+//付忑 地压 地流 寻环 
+vcc:gnd 
+hks^l.asc^ll
