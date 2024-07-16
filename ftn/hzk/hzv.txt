@@ -12,10 +12,10 @@ sak.kam
 /***interrupt:enterkame***/
 lnt
   rpt.kst_adl //call slc.stp^o
-kam^o
+kam
 
-//CAUTION!!!JMP 
-//HZK:TS S[^C]_L!JK*TS
+//NOTICE!!!JMP 
+//TS S[^C]_L!JK*TS
 //付忑 地压 地流 寻环 
 vcc:gnd 
 hks^l.asc^ll

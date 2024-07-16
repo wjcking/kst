@@ -3,7 +3,7 @@
 //HZV JK.TS.RL
 hxc //asm jump loop
 	dsh.dnp.hks^c //jxs.jmp jws^a
-    lnt.kam^a0//call
+    lnt.kam//call
     rck.hxs //stack.lst
     psh^k //call.push exe lck^x
       kkb:rpt^u:rts // interrupt rtn
