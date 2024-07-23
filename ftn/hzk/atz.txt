@@ -4,16 +4,17 @@ tsl:rkb
 
 vts:ltz
 hzv_hzh
-	hlx.hzk.wfs
+	hlx.hzk 
 	bzk
-	atv^un.mgt.frd.vzs
+	atv~vzs-
 blt
 
-hzv.hdz.lnk_th_l.jxs.lck_p
-hzk.rck^dlx
-  ksn.lnk_th
-  rft^u.klk_ln
-rck.fbk
+//HLX.THE:ITS
+hzv.hdz.lnk-jts.lck^p
+hzk.dlx
+  ksn.lnk
+  //rft^u.klk
+rzk
 
-//水米切木树
+//水米切木束
 //hzh.kts

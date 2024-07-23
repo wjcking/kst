@@ -1,21 +1,24 @@
 ﻿/*
 *中文学名为互补金属氧化物半导体
-*cmos bios
-*A hardware interrupt alerting signal external device
-*rl.time sensitive attention
+*CMOS BIOS
+*A HARDWARE INTERRUPT ALERTING SIGNAL EXTERNAL DEVICE
+*RL.TIME SENSITIVE ATTENTION
+*
+*INTERAPT:INTERKAMW
 */
-pcb.put^er
+lnt.rpt:kam //call slc.stp^o
+
+pcb.put
   smos.rsk^c
   bios.asc.lck^abt
 sak.kam
 
-/***interrupt:enterkame***/
-lnt
-  rpt.kst_adl //call slc.stp^o
-kam
 
-//NOTICE!!!JMP 
-//TS S[^C]_L!JK*TS
-//付忑 地压 地流 寻环 
+/*
+*NOTICE!!!JMP^C
+*TS S[^C]_L!JK*TS
+
+*付忑 地压 地流 寻环 
+*/
 vcc:gnd 
 hks^l.asc^ll

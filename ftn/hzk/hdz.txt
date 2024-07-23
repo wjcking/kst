@@ -1,14 +1,13 @@
 ﻿hdz.dwf
 
-fts_z:rsk.c
-  
+fxs-jts:rsk
   ltlr.brts
-	//thead stack function
+	//THEAD STACK FUNCTION
 	dth.kst.l
 	nl:url:ulv
 			
-	//tlm:255.2b2f
-	//lterative rkesw
+	//TIAM:255.2B2F
+	//LTERATIVE RKESW
 	fkz
 		rkr^s 
 		rkl^rs    
