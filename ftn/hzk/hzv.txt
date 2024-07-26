@@ -11,8 +11,7 @@ lnt.rpt:kam //call slc.stp^o
 pcb.put
   smos.rsk^c
   bios.asc.lck^abt
-sak.kam
-
+kam
 
 /*
 *NOTICE!!!JMP^C
