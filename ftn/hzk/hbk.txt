@@ -4,7 +4,7 @@
 	//l
 	//hzh.mbd
 	hkz
-	hxz//hzh klc asm	
+	hxz//hzh klz asm	
 	hdz.dwf.dup.tsh
 	hdz.tsh.rzs
 	hxs

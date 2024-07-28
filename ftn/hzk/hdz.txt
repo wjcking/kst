@@ -7,7 +7,7 @@ fxs-jts:rsk
 	nl:url:ulv
 			
 	//TIAM:255.2B2F
-	//LTERATIVE RKESW
+	//ITERATIVE RKESW
 	fkz
 		rkr^s 
 		rkl^rs    
