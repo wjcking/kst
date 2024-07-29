@@ -4,14 +4,12 @@
 *A HARDWARE INTERRUPT ALERTING SIGNAL EXTERNAL DEVICE
 *RL.TIME SENSITIVE ATTENTION
 *
-*INTERAPT:INTERKAMW
+*INTERUPT:INTERKAMW
 */
-lnt.rpt:kam //call slc.stp^o
-
 pcb.put
-  smos.rsk^c
-  bios.asc.lck^abt
-kam
+smos.rsk^c
+bios.asc.lck^abt
+int.rpt //call slc.stp^o
 
 /*
 *NOTICE!!!JMP^C

@@ -2,16 +2,16 @@
 
 //HZV JK.TS.RL
 hxz //ASM JUMP LOOP
-	dsh.dnp.hks //jts-jmp JWS^A
-    lnt.kam//CALL
+	dsh.dnp.hks //jts-jmp
+    int.rpt//CALL
     rzk.hxs //STACK.LST
     psh^k //CALL.PUSH EXE LCK^X
-      kkb:rpt^u:rts //RTN INTERRUPT
+      kkb:rpt:rts //RTN INTERRUPT
       hks^x//0X DEZIMAL
       tsh^d //THREAD
     bsh^p//POP
 	ktn //INT.RPT^A THREAD
 
-  kam.enk:txc //CALL
+  asm^c //CALL
   dwf.main//DLL EXE
 kbt
