@@ -12,10 +12,8 @@ bios.asc.lck^abt
 int.rpt //call slc.stp^o
 
 /*
-*NOTICE!!!JMP^C
-*TS S[^C]_L!JK*TS
-*
-*付忑 地压 地流 寻环 
+*TS:THREAD
+*JMP^C:TS S[^C]_L!JK*TS
 */
 vcc:gnd 
 hks^l.asc^ll
