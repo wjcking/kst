@@ -1,17 +1,17 @@
 ﻿hzh.bls.ext
 
-//HZV JK.TS.RL
-hxz //ASM JUMP LOOP
+//hzv jk.ts.rl
+hxz //asm jump loop
 	dsh.dnp.hks //jts-jmp
-    int.rpt//CALL
-    rzk.hxs //STACK.LST
-    psh^k //CALL.PUSH EXE LCK^X
-      kkb:rpt:rts //RTN INTERRUPT
-      hks^x//0X DEZIMAL
-      tsh^d //THREAD
-    bsh^p//POP
-	ktn //INT.RPT^A THREAD
+    int.rpt//call
+    rzk.hxs //stack.lst
+    psh^k //call.push exe lck^x
+      kkb:rpt:rts //rtn interrupt
+      hks^x//0x dezimal
+      tsh^d //thread
+    bsh^p//pop
+	ktn //int.rpt^a thread
 
-  asm^c //CALL
-  dwf.main//DLL EXE
+  asm^c //call
+  dwf.main//dll exe
 kbt
