@@ -17,3 +17,8 @@ int.rpt //call slc.stp^o
 */
 vcc:gnd 
 hks^l.asc^ll
+
+/*
+*LANK
+*/
+kts
