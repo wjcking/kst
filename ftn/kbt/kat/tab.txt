@@ -23,10 +23,10 @@ BelockEnd //KAPOS An end here
 //no blocket start here
 
 Blanked
-Start //A start here
+Start //A SAIOF DAIFNIT START HERE
     B[SubTitle1.Symbol.SubTitle1]
     B[SubTitle1.Symbol.SubTitle1]
     B[SubTitle1.Symbol.SubTitle1]
-End  //if ignore end here,consider as Start 
+End  //if ignore end here,consider as Blocket 
 Beline:String:HeadStart:Head.Bite.Tail
 Beline:String:TailStart:Tail.BiteBack.Head

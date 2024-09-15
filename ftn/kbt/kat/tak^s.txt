@@ -34,7 +34,7 @@ Textural:FileContent.Format:Article,Text
     10 02 03 04
     10 02 03 04
 
-    Tkd
+    Tkd:ftn:itl //atb
     aaa bbb ccc ddd
     qqq eee rrr ccc
     zzz xxx ccc vvv
