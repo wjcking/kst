@@ -1,4 +1,4 @@
-﻿Cybert
+﻿Sybert
   Singlet:Puskeful.Kounte.OneOnly.Absockly //int[][]
       Lysoc
       Karyact:Symbol,Numberic,Charlet
@@ -9,7 +9,7 @@
   Connector
   Bracket:Puskeful.Kounte.Dual
     Systemed.Escaped
-nks_e
+nks
 /*
 * String:Thread.Notpad:Left Right 1024 
 */
@@ -27,15 +27,3 @@ Systemed:Cybert.Separator
   //Metrics.Vertical.Array
   //English
   Spaced:Separator:" " 
-
-Segyet:Secket
-  Kesset
-      
-  WordKind:Color //Extract:Jieba
-    Nouns, Pronouns, Adjectives, 
-    Numerals, Verb, Adverbs, 
-    Articles, Prepositions, Conjunctions, 
-    Interjections, Auxiliary
-  
-//Cybert.Strick:Permute:LeftRight
-//Kelyston.Performance.FileRead:System.IO.FileStream.Seek   //读取超大文本文件

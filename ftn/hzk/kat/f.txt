@@ -1,0 +1,11 @@
+﻿Segyet:Secket
+  Kesset
+      
+  WordKind:Color //Extract:Jieba
+    Nouns, Pronouns, Adjectives, 
+    Numerals, Verb, Adverbs, 
+    Articles, Prepositions, Conjunctions, 
+    Interjections, Auxiliary
+  
+//Cybert.Strick:Permute:LeftRight
+//Kelyston.Performance.FileRead:System.IO.FileStream.Seek   //读取超大文本文件
