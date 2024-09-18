@@ -1,0 +1,24 @@
+Textural.Layke.Contrast
+  Scrolly.String.LeftRight.Antifusial
+  Monika:Screenick.Karyect.AeroFusional
+Nextural:Hextural
+
+Textural:FileContent.Format:Article,Text
+*Systemed.Enbreak.Retend 
+*Retline.AreInclude
+*TableIndent.AreInclude
+
+Tablet
+Passical:Passage
+Fresck:PanelErick      
+	*CasualSerial.Limitless
+	*Blank.Beline:SingleLine
+	*Require.Distablet
+			
+Distablent
+Cybert.Separator.Space//Cybert.Quest.AnotherSeparators
+Kodex.NameCount(1,5Plus)
+	 
+Fresck.Initialize //Hample
+
+Tablet.Generalize

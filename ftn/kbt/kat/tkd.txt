@@ -1,0 +1,24 @@
+﻿atsk:land
+
+[abt.atb]
+ABCD
+ABC DE FGH
+
+//Charsitke.Katerake
+10 02 03 04
+10 02 03 04
+10 02 03 04
+
+//mfs
+[isk.jxt.zts]
+[ftn:itl]
+AXXXXXXXXXXXXX
+XXOXXXXOOOXXX
+XOXOXXOXXXOXX
+XXOXXXXOOOXXX
+XXXXXXXXXXXXXB
+
+<tkd:ftn:itl>
+aaa bbb ccc ddd
+qqq eee rrr ccc
+zzz xxx ccc vvv
