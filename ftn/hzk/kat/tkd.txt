@@ -5,8 +5,8 @@ ABCD
 ABC DE FGH
 10 02 03 04
 
-[isk.jxs:zts]
-[itl:atsk]//mfs
+[isk.jxs:zts]//mfs
+[itl:atsk]
 AXXXXXXXXXXXXX
 XXOXXXXOOOXXX
 XOXOXXOXXXOXX
