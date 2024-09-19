@@ -5,7 +5,7 @@ ABCD
 ABC DE FGH
 10 02 03 04
 
-[isk.jxt.zts]
+[isk.jxs:zts]
 [itl:atsk]//mfs
 AXXXXXXXXXXXXX
 XXOXXXXOOOXXX
@@ -13,7 +13,7 @@ XOXOXXOXXXOXX
 XXOXXXXOOOXXX
 XXXXXXXXXXXXXS
 
-<tkd:ftn:itl>
+<tkd:atn:itl>
 aaa bbb ccc ddd
 qqq eee rrr ccc
 zzz xxx ccc vvv
