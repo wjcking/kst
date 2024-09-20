@@ -10,14 +10,10 @@ Physically
 　　重力 
 Chemically
 　　Water dirt 岩浆 电浆
-　　界限：哭与不哭
-　　演员或实际人物
+　　
 Triggered
 　　Time interval Bombed,
-FrightenType
-　　Suddenly pop up
-　　What sort of voice like rat、devil、most frighten animals 
-　　Movies Fear 万圣节 
+
 Odimetional
 　　Advtisement
 　　GruangGao
@@ -42,11 +38,7 @@ Crushed pressured
 Heat
 Freeze
 AngerType
-　　空间障碍性急躁
-　　看见人救烦
-　　AnnoyingType(to be enticed)
-　　Irritable
-　　Sudden 扫兴 a chain of reaction
+　　
 Fall
 Hit
 Squeeze
