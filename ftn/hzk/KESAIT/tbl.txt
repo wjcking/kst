@@ -4,16 +4,16 @@ Textural.Layke.Contrast
 Nextural:Hextural
 
 Textural:FileContent.Format:Article,Text
-	*Systemed.Enbreak.Retend 
-	*Retline.AreInclude
-	*TableIndent.AreInclude
+	Systemed.Enbreak.Retend 
+	Retline.AreInclude
+	TableIndent.AreInclude
 
 Tablet
 Passical:Passage
 Fresck:PanelErick      
-	*CasualSerial.Limitless
-	*Blank.Beline:SingleLine
-	*Require.Distablet
+	CasualSerial.Limitless
+	Blank.Beline:SingleLine
+	Require.Distablet
 			
 Distablent
 Cybert.Separator.Space//Cybert.Quest.AnotherSeparators
